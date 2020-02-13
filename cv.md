@@ -8,3 +8,5 @@ return false; if (test == original) return true; let arrtest = test.split("").so
 let arrorig = original.split("").sort();for (i = 0; i < test.length; i++) {
 if (arrtest[i] === arrorig[i]) {return true;}else {return false;}}};.ls in the front-end.
 6. Coding tests on Codewars.
+7. I just started to study at Rsschool, also I finished free and some paid courses of html academy.
+8. English A2+ level
